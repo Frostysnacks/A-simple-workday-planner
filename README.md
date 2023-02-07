@@ -17,7 +17,7 @@ Enter you days plan into the field of each time slot and click the save button t
 ![alt text](https://github.com/Frostysnacks/A-simple-workday-planner/blob/main/mock.PNG)
 
 ## Live Page
-https://frostysnacks.github.io/My-awesome-password-generator/
+https://frostysnacks.github.io/A-simple-workday-planner/
 
 ## License
 
