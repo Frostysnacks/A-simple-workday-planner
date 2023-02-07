@@ -3,7 +3,7 @@
 
 ## Description
 
-This is a day planner that saves the entered information and shows whether or not it is pass due, the current time or tasks that are due in the future and they are color coded as red, green, and light blue respectively.
+This is a day planner that saves the entered information and shows whether or not it is pass due, the current time or tasks that are due in the future and they are color coded as red, green, and light blue respectively. This was made using HTML, CSS, JavaScript, and JQuery.
 
 ## Installation
 N/A
