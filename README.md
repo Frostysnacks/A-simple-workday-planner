@@ -14,7 +14,7 @@ Enter you days plan into the field of each time slot and click the save button t
 
 ## Mock up
 
-![alt text](https://github.com/Frostysnacks/My-awesome-password-generator/blob/main/passgen.PNG)
+![alt text](https://github.com/Frostysnacks/A-simple-workday-planner/blob/main/mock.png)
 
 ## Live Page
 https://frostysnacks.github.io/My-awesome-password-generator/
